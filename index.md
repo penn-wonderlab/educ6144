@@ -69,21 +69,21 @@ Each week follows a pattern designed to support sustained knowledge building:
 | Date | Class | Topic | Due |
 |------|-------|-------|-----|
 | 01/14* | 1 | Learning Sciences Overview; Course Introduction | Pre-course profile |
-| 01/19 | 2 | Knowledge Building and Collective Inquiry | Annotations |
-| 01/26 | 3 | Cognition and Conceptual Change | Annotations |
-| 02/02 | 4 | Motivation, Regulation, Failures | Annotations |
-| 02/09 | 5 | Expertise and Adaptive Expertise | Annotations |
-| 02/16 | 6 | Multiple Representations, Multiple Perspectives | Annotations |
-| 02/23 | 7 | Inquiry and Problem-Solving | Annotations |
-| 03/02 | 8 | Analyzing Learning Processes | Annotations; Portfolio check-in |
+| 01/26 | 2 | Knowledge Building and Collective Inquiry | Annotations |
+| 02/02 | 3 | **SECTION 1**<br>Cognition and Conceptual Change | Annotations |
+| 02/09 | 4 | Motivation, Regulation, Failures | Annotations |
+| 02/16 | 5 | Expertise and Adaptive Expertise | Annotations |
+| 02/23 | 6 | Multiple Representations, Multiple Perspectives | Annotations |
+| 03/02 | 7 | Inquiry and Problem-Solving | Annotations |
 | | | **SPRING BREAK** | |
-| 03/16 | 9 | Collaboration, Argumentation, Scripting | Annotations; Problem presentations begin |
-| 03/23 | 10 | Learning in Networks and the Wild | Annotations; Problem presentations |
-| 03/30 | 11 | Design-Based Research and Implementations; Problem presentations | Annotations |
-| 04/06 | 12 | Power and Politics | Annotations; Problem presentations |
-| 04/13 | 13 | Learning by Making, Moving, Being | Annotations; Problem presentations |
-| 04/20 | 14 | Learning Sciences and Policy | Annotations |
-| 04/27 | 15 | Reflection and Celebration | Final portfolio; Reflective synthesis |
+| 03/16 | 8 | Analyzing Learning Processes | Annotations; Portfolio check-in |
+| 03/23 | 9 | **SECTION 2**<br>Collaboration, Argumentation, Scripting | Annotations; Problem presentations begin |
+| 03/30 | 10 | Learning in Networks and the Wild | Annotations; Problem presentations |
+| 04/06 | 11 | Design-Based Research and Implementations; Problem presentations | Annotations |
+| 04/13 | 12 | **SECTION 3**<br>Power and Politics | Annotations; Problem presentations |
+| 04/20 | 13 | Learning by Making, Moving, Being | Annotations; Problem presentations |
+| 04/27 | 14 | Learning Sciences and Policy | Annotations |
+| 05/04 | 15 | NO CLASS | Final portfolio; Reflective synthesis |
 
 *First day of class for Monday classes, due to the MLK holiday.
 
