@@ -1,9 +1,11 @@
 title: "EDUC 6144: Learning Sciences"
 description: "Past, Present, and Future — Spring 2026, Penn GSE"
-theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
 baseurl: "/educ6144"
 url: "https://penn-wonderlab.github.io"
+
+plugins:
+  - jekyll-remote-theme
 
 # Default layout for all pages
 defaults:
