@@ -17,3 +17,6 @@ vendor/
 *.swp
 *~
 .idea/
+
+# Local config
+_config_local.yml

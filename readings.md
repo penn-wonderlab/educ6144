@@ -17,20 +17,14 @@ We use an **anchor + open library model**:
 
 ---
 
+## SECTION 0: AGENDA SETTING AND COMMUNITY BUILDING
+
 ## Week 1: Learning Sciences Overview & Knowledge Building Introduction
 
 ### Anchor Readings ⚓
 
 - Sawyer, R. K. (2022). An Introduction to the Learning Sciences. In *The Cambridge Handbook of the Learning Sciences* (3rd ed., pp. 1–24). Cambridge University Press. https://doi.org/10.1017/9781108888295.002
 - Scardamalia, M. (2002). Collective cognitive responsibility for the advancement of knowledge. In Smith (Ed.), *Liberal Education in a Knowledge Society* (pp. 67–98). Open Court.
-
-### Section Library
-
-- Hoadley, C. (2018). A short history of the learning sciences. In Fischer et al. (Eds.), *The International Handbook of the Learning Sciences* (pp. 11–23). Routledge.
-- Yoon, S., & Hmelo-Silver, C. (2017). What do learning scientists do? *Journal of the Learning Sciences, 26*(2), 167–183.
-- [Video] Chris Hoadley: A short history of the Learning Sciences. https://www.psy.lmu.de/isls-naples/intro/all-webinars/hoadley_video/index.html
-- Kolodner, J. (2004). The learning sciences: Past, present and future. *Educational Technology, 44*(3), 37–42.
-- Sommerhoff, D., et al. (2018). What do we teach when we teach the learning sciences? *Journal of the Learning Sciences, 27*, 319–351.
 
 ---
 
@@ -41,7 +35,17 @@ We use an **anchor + open library model**:
 - Scardamalia, M., & Bereiter, C. (2022). Knowledge Building and Knowledge Creation. In Sawyer (Ed.), *The Cambridge Handbook of the Learning Sciences* (3rd ed., pp. 385–405). https://doi.org/10.1017/9781108888295.024
 - Cress, U., & Kimmerle, J. (2018). Collective knowledge construction. In Fischer et al. (Eds.), *The International Handbook of the Learning Sciences* (pp. 137–146). Routledge.
 
-### Section Library
+## Section 0 Library
+
+Introduction to the Learning Sciences
+
+- Hoadley, C. (2018). A short history of the learning sciences. In Fischer et al. (Eds.), *The International Handbook of the Learning Sciences* (pp. 11–23). Routledge.
+- Yoon, S., & Hmelo-Silver, C. (2017). What do learning scientists do? *Journal of the Learning Sciences, 26*(2), 167–183.
+- [Video] Chris Hoadley: A short history of the Learning Sciences. https://www.psy.lmu.de/isls-naples/intro/all-webinars/hoadley_video/index.html
+- Kolodner, J. (2004). The learning sciences: Past, present and future. *Educational Technology, 44*(3), 37–42.
+- Sommerhoff, D., et al. (2018). What do we teach when we teach the learning sciences? *Journal of the Learning Sciences, 27*, 319–351.
+
+Knowledge Building
 
 - Chen, B., & Hong, H.-Y. (2016). Schools as knowledge-building organizations. *Educational Psychologist, 51*(2), 266–288. https://doi.org/10.1080/00461520.2016.1175306
 - Zhang, J., et al. (2018). Co-organizing the collective journey of inquiry with idea thread mapper. *Journal of the Learning Sciences, 27*, 390–430.

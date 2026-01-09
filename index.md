@@ -22,20 +22,20 @@ permalink: /
 
 This course surveys the theories, methods, and applications through which educational researchers understand learning and how to improve it. You will explore how the learning sciences field emerged, evolved, and continues to address current and future learning needs.
 
-**This course is designed as a knowledge-building community.** Rather than simply learning *about* learning sciences concepts, we will practice *being* a community that takes collective cognitive responsibility for advancing ideas together. The diverse backgrounds you bring—spanning education, technology, design, policy, and beyond—are resources for boundary crossing and knowledge creation.
+**This course is designed as a knowledge-building community.** Rather than simply learning *about* learning sciences concepts, we will practice *being* a community that takes collective cognitive responsibility for advancing ideas together. The diverse backgrounds you bring—spanning education, technology, design, policy, and beyond—are resources for boundary crossing and knowledge creation. As a member of the class community, you are here not to just learn, but develop solutions to real-world problems.
 
 ### Learning Goals
 
 1. Investigate the roots of the learning sciences field and how it has evolved
 2. Identify major theories and frameworks that fuel and support learning
 3. Understand how learning processes interact with contextual and cultural variables
-4. Develop skills in collaborating with a community to build new knowledge
+4. Develop skills in working within a community to build new knowledge
 
 ### Course Structure
 
 The course is organized into these sections:
 
-- **Section 0: Agenda Setting and Culture Building** (Weeks 1–2) — Setting up our agenda and knowledge-building environment for the semester; define problems to be tackled
+- **Section 0: Agenda Setting and Community Building** (Weeks 1–2) — Plan our work and knowledge-building environment for the semester; brainstorm problems to be tackled
 - **Section 1: Learning Processes** (Weeks 3–7) — Processes within individuals and groups that support learning
 - **Section 2: Collaboration & Social Learning** (Weeks 8–11) — Frameworks defined by and promoted through collaboration
 - **Section 3: Context & Culture** (Weeks 12–14) — How context and culture shape learning
@@ -48,7 +48,7 @@ The course is organized into these sections:
 |----------|---------|
 | **Canvas** | Course hub, grades, announcements |
 | **Perusall** | Social annotation on readings |
-| **Wonderbits** | Idea improvement, rise-above synthesis, portfolio |
+| **Wonderbits** | Idea improvement, synthesis, portfolio |
 
 **The flow**: Wonderbits (define and refine problems) → Perusall (surface ideas from readings) → Wonderbits (develop, connect, and synthesize ideas to tackle problems)
 
@@ -74,8 +74,8 @@ Each week follows a pattern designed to support sustained knowledge building:
 
 | Date | Class | Topic | Due |
 |------|-------|-------|-----|
-| 01/14* | 1 | Learning Sciences Overview; Course Introduction | Pre-course profile |
-| 01/26 | 2 | Knowledge Building and Collective Inquiry | Annotations |
+| 01/14* | 1 | Learning Sciences Overview; Course Introduction | Annotations |
+| 01/26 | 2 | Knowledge Building and Collective Inquiry | Annotations; Facilitation sign-up |
 | 02/02 | 3 | **SECTION 1**<br>Cognition and Conceptual Change | Annotations |
 | 02/09 | 4 | Motivation, Regulation, Failures | Annotations |
 | 02/16 | 5 | Expertise and Adaptive Expertise | Annotations |
@@ -248,21 +248,21 @@ We use an **anchor + open library model** to balance shared discussion with prob
 
 - Each week has 1–2 **anchor readings** that everyone annotates in Perusall
 - All readings within the current section are available for optional exploration
-- By end of course, all readings are accessible for your portfolio work
+- All [readings](readings.md) are listed and are always accessible for your portfolio work
 
 This allows you to follow your problem across weekly boundaries while maintaining shared reference points for collective discourse.
 
 ---
 
-## Pre-Course: Learner Identity Profile
+## Learner Identity Profile
 
-Before the first class, complete your profile in Wonderbits:
+During the first class, the instructor will work with you to complete your profile in Wonderbits:
 - Your background (academic, professional, personal)
 - Your passions and aspirations
 - What you hope to learn from peers
 - What others might learn from you
 
-In Week 1, we'll explore the directory and connect with peers across boundaries.
+In Weeks 1-2, we'll explore the directory and connect with peers across boundaries.
 
 ---
 
