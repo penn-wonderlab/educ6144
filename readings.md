@@ -1,4 +1,4 @@
-# EDUC 6144: Course Readings
+# Readings
 
 All readings are available on Perusall.
 

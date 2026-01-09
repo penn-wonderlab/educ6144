@@ -1,4 +1,4 @@
-# EDUC 6144: Learning Sciences: Past, Present, and Future
+# Syllabus
 
 **Spring 2026 | Penn Graduate School of Education**
 

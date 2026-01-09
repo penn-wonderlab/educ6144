@@ -1,4 +1,4 @@
-# EDUC 6144: Assignment Details
+# Assignment
 
 This document contains detailed descriptions, requirements, and rubrics for all course assignments.
 

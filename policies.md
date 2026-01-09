@@ -1,4 +1,4 @@
-# EDUC 6144: Course Policies and Support
+# Policies
 
 ---
 
