@@ -12,7 +12,7 @@ permalink: /
 |---|---|
 | **Instructor** | Prof. Bodong Chen |
 | **Email** | cbd@upenn.edu |
-| **Class Time** | M 11:45am-1:30pm (Sec 001) OR M 2pm-3:45pm (Sec 002) |
+| **Class Time** | M 11:45am-1:30pm (**Sec 001**) OR M 2pm-3:45pm (**Sec 002**) |
 | **Room** | **STIT 265** |
 | **Office Hours** | By appointment |
 
