@@ -1,6 +1,12 @@
-# Syllabus
+---
+title: Syllabus
+nav_order: 1
+permalink: /
+---
 
-**Spring 2026 | Penn Graduate School of Education**
+<!-- # Syllabus -->
+
+**Spring 2026 -- Penn Graduate School of Education**
 
 | | |
 |---|---|

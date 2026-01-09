@@ -1,4 +1,9 @@
-# Assignment
+---
+title: Assignments
+nav_order: 3
+---
+
+<!-- # Assignments -->
 
 This document contains detailed descriptions, requirements, and rubrics for all course assignments.
 

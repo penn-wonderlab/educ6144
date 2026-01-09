@@ -1,14 +1,31 @@
 title: "EDUC 6144: Learning Sciences"
 description: "Past, Present, and Future — Spring 2026, Penn GSE"
-remote_theme: jekyll/minima
+theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 baseurl: "/educ6144"
 url: "https://penn-wonderlab.github.io"
 
-header_pages:
-  - index.md
-  - readings.md
-  - assignments.md
-  - policies.md
+# Default layout for all pages
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
 
-minima:
-  skin: classic
+# Enable search
+search_enabled: true
+
+# Aux links (top right)
+aux_links:
+  "Penn GSE":
+    - "https://www.gse.upenn.edu/"
+
+# Footer
+footer_content: "EDUC 6144 · Penn GSE"
+
+# Color scheme
+color_scheme: light
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"

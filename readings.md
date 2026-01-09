@@ -1,4 +1,9 @@
-# Readings
+---
+title: Readings
+nav_order: 2
+---
+
+<!-- # Readings -->
 
 All readings are available on Perusall.
 

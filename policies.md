@@ -1,4 +1,9 @@
-# Policies
+---
+title: Policies
+nav_order: 4
+---
+
+<!-- # Policies -->
 
 ---
 
