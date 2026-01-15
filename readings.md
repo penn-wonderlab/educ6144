@@ -25,6 +25,7 @@ We use an **anchor + open library model**:
 
 - Sawyer, R. K. (2022). An Introduction to the Learning Sciences. In *The Cambridge Handbook of the Learning Sciences* (3rd ed., pp. 1–24). Cambridge University Press. https://doi.org/10.1017/9781108888295.002
 - Scardamalia, M. (2002). Collective cognitive responsibility for the advancement of knowledge. In Smith (Ed.), *Liberal Education in a Knowledge Society* (pp. 67–98). Open Court.
+- Roeroe, C. (2025). *Designing for a Knowledge Building Community in Graduate Learning Sciences Classrooms*. Course paper submitted to EDUC 6144, Penn Graduate School of Education. 
 
 ---
 
