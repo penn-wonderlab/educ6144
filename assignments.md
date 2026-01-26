@@ -14,8 +14,8 @@ This document contains detailed descriptions, requirements, and rubrics for all 
 | Component | Weight | Description |
 |-----------|--------|-------------|
 | Knowledge Building Participation | 30% | Perusall annotations + Wonderbits contributions |
-| Facilitation | 15% | Two weeks of facilitation duties |
-| Idea Development Portfolio | 40% | Problem-centered collection of knowledge work |
+| Facilitation | 10% | Two weeks of facilitation duties |
+| Idea Development Portfolio | 45% | Problem-centered collection of knowledge work |
 | Reflective Synthesis | 15% | Final reflection on learning journey |
 
 ---
@@ -72,7 +72,7 @@ Wonderbits is where ideas from Perusall annotations develop into deeper knowledg
 
 ---
 
-## Facilitation (15%)
+## Facilitation (10%)
 
 **Due**: Two selected weeks (sign up first day of class)
 
@@ -129,7 +129,7 @@ With your co-facilitator:
 
 ---
 
-## Idea Development Portfolio (40%)
+## Idea Development Portfolio (45%)
 
 **Due**: Final class (Week 15)
 **Mid-Course Checkpoint**: Week 8

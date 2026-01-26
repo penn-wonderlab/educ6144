@@ -102,8 +102,8 @@ Each week follows a pattern designed to support sustained knowledge building:
 | Component | Weight | Description |
 |-----------|--------|-------------|
 | Knowledge Building Contribution | 30% | Perusall annotations + Wonderbits contributions |
-| Facilitation | 15% | Two weeks of facilitation |
-| Idea Development Portfolio | 40% | Problem-centered collection of knowledge work |
+| Facilitation | 10% | Two weeks of facilitation |
+| Idea Development Portfolio | 45% | Problem-centered collection of knowledge work |
 | Reflective Synthesis | 15% | Final reflection on learning journey |
 
 **Details**: See [assignments](assignments.md) for full descriptions and rubrics.
@@ -130,7 +130,7 @@ No minimum counts—engagement quality and consistency matter.
 
 ---
 
-## Facilitation (15%)
+## Facilitation (10%)
 
 You will facilitate or co-facilitate two weeks during the semester (one in each half). Facilitator responsibilities:
 
@@ -145,7 +145,7 @@ Instructor will provide support and scaffolds along the way.
 
 ---
 
-## Idea Development Portfolio (40%)
+## Idea Development Portfolio (45%)
 
 You will curate a portfolio demonstrating your knowledge building journey, centered on **a problem you are eager to solve**.
 
