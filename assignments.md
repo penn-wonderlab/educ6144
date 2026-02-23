@@ -84,7 +84,7 @@ You will co-facilitate with a partner, taking on an expanded role as curators of
 |------|------|-----------|
 | Monitor Perusall, engage with peers | Mon–Wed | 30 min |
 | Select 3–5 promising ideas → Wonderbits | Thu–Sat | 30 min |
-| Write rise-above synthesis | Sat–Sun | 30 min |
+| Create rise-above synthesis | Sat–Sun | 30 min |
 | Lead opening discussion | In class | 20 min |
 
 **Total**: ~2 hours per facilitation week
@@ -105,11 +105,13 @@ During your assigned week:
 
 ### Part 2: Rise-Above Synthesis (Before Class)
 
-Write a short synthesis (200–300 words) that:
+Create a short synthesis that:
 - Highlights emerging themes from the week's annotations
 - Surfaces tensions or debates
 - Identifies open questions worth pursuing
 - Connects to prior weeks where relevant
+
+You can use any formats. Please add to Wonderbits.
 
 ### Part 3: Lead Class Discussion
 
@@ -189,13 +191,14 @@ Options include:
 - This is woven into your developed ideas and synthesis—not a separate assignment
 - Demonstrate engagement with course readings and beyond
 
-#### 5. LS Topic Presentation (included in portfolio, 10% of portfolio grade)
+#### 5. Topic Presentation (included in portfolio, 10% of portfolio grade)
 
-Present your problem focus and relevant LS topic to the class.
+Present your problem focus and a relevant topic to the class.
 
-- **When**: Sign up for a slot in Weeks 12–14
-- **Format**: Short presentation with slides
+- **When**: Sign up for a slot in Weeks 9–14
+- **Format**: Short (up to 10 min) presentation with slides
 - **Content**: The problem you're addressing, relevant LS theories/frameworks, your emerging thinking
+- This presentation can be group-based. 
 - Receive peer feedback to strengthen final portfolio
 
 ### Optional Additions
