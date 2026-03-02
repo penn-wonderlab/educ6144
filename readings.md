@@ -149,6 +149,7 @@ All Section I readings are open for exploration once we begin Week 3.
 ### Anchor Readings ⚓
 
 - Chi, M. T. H. (1997). Quantifying Qualitative Analyses of Verbal Data: A Practical Guide. *Journal of the Learning Sciences, 6*(3), 271–315. https://doi.org/10.1207/s15327809jls0603_1
+- Enyedy, N., & Stevens, R. (2022). Analyzing Collaboration. In R. K. Sawyer (Ed.), The Cambridge Handbook of the Learning Sciences (3rd ed., pp. 196–216). Cambridge University Press. https://doi.org/10.1017/9781108888295.013
 
 ### Section Library
 
