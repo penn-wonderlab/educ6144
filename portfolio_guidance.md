@@ -1,4 +1,6 @@
-# Idea Development Portfolio — Detailed Guidance
+# Idea Development Portfolio
+
+(Detailed Guidance)
 
 > _This document supplements the [assignment description on the course website](https://penn-wonderlab.github.io/educ6144/assignments.html#idea-development-portfolio-45). Read both._
 
@@ -41,7 +43,7 @@ Show that your thinking was shaped by — and contributed to — the learning co
 
 ### Quality 3: Making It Real
 
-Take one idea from your portfolio and do something with it outside the boundaries of this course.
+Take one idea from your portfolio (ideally an idea central to your interest) and develop it further to something more substantial. Do something with it outside the boundaries of this course.
 
 **Ways to demonstrate this** (choose at least **one**):
 
@@ -50,9 +52,9 @@ Take one idea from your portfolio and do something with it outside the boundarie
 | **Stakeholder Translation** | Translate your LS-grounded thinking into a form meaningful for a non-LS audience (e.g., a policy brief, a workshop plan, a design spec, a parent guide, a blog post). |
 | **Real-World Test** | Take a principle or conjecture you've developed and test it in a real context. Document what happened and what you learned. |
 | **Colleague Engagement** | Present your thinking to colleagues outside this course and document their reactions, pushback, and your subsequent reflections. |
-| **Redesign Your Practice** | Take a concrete element from your actual professional context (a lesson plan, a meeting structure, a syllabus, a design process) and redesign it using the LS principles you've developed. |
+| **Put into Practice** | Take a concrete element from your actual professional context (a lesson plan, a meeting structure, a syllabus, a design process) and redesign it using the LS principles you've developed. |
 
-### Always Present: Literature Grounding and Topic Presentation
+### Quality 4: Literature Grounding and Topic Presentation
 
 This is not a separate section — it's woven throughout. Your ideas should be in conversation with course readings and, where relevant, additional literature you've sought out. A strong portfolio cites **at minimum 5–8 sources** (course readings + at least 2–3 beyond the syllabus), used meaningfully — not just name-dropped.
 
@@ -158,7 +160,7 @@ Before submitting, review your portfolio against these questions:
 - [ ] Does my portfolio take at least one idea and make it "real" outside the context of this course?
 - [ ] Does the portfolio feel like a coherent story, not a collection of separate assignments?
 - [ ] Have I included evidence from Wonderbits/Perusall to support my claims about idea development?
-- [ ] Would someone outside this class find at least one element of my portfolio genuinely interesting or useful?
+- [ ] Would someone outside this class find at least one element of my portfolio interesting or useful?
 
 ---
 
@@ -171,7 +173,7 @@ A: No. Choose the combination that best tells your story. The minimum is: 2 demo
 A: Absolutely. A rise-above synthesis might also serve as your "making it real" artifact if it translates perspectives for an outside audience. A developed idea might include a cross-pollination piece. The categories are lenses, not boxes.
 
 **Q: What format should the portfolio take?**
-A: Use Wonderbits Stories as your primary organizational tool. You may supplement with additional documents, slides, or other media if they strengthen the portfolio. The presentation should be uploaded as slides or a recording.
+A: Use Wonderbits Document mode as one organizational tool. You can export a set of ideas to multiple formats. You can also export your own Wonderbits data via the Profile settings page. You may supplement with additional documents, slides, or other media if they strengthen the portfolio. The presentation should be uploaded as slides or a recording.
 
 **Q: How long should the portfolio be?**
 A: There's no fixed length. A strong portfolio is typically the equivalent of **8–15 pages** of written content (including visuals, maps, etc.), but quality and depth matter more than volume. The two exemplars above would each be roughly 10–12 pages.
