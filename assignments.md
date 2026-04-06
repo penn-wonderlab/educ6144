@@ -134,11 +134,12 @@ With your co-facilitator:
 ## Idea Development Portfolio (45%)
 
 **Due**: Final class (Week 15)
-**Mid-Course Checkpoint**: Week 8
 
 ### Purpose
 
 Curate a portfolio demonstrating your knowledge building journey, centered on **a problem you are eager to solve**.
+
+Check the [**portfolio guidance**](portfolio_guidance.md) for additional details.
 
 ### The Problem Focus
 
@@ -176,14 +177,9 @@ Integrates multiple ideas and/or perspectives into higher-level understanding.
 - Advances understanding of your problem or potential approaches
 - Demonstrates ability to see patterns and connections
 
-#### 3. Boundary Crossing Artifact (1 artifact)
+#### 3. "Make It Real" Artifact (1 artifact)
 
-Demonstrates learning across disciplines, perspectives, or contexts.
-
-Options include:
-- Applying your unique background/expertise to the problem
-- Collaboration with peers from different backgrounds
-- Connecting learning sciences theory to professional/practical context
+Demonstrates learning and communication across disciplines, perspectives, or contexts.
 
 #### 4. Literature Grounding (embedded throughout)
 
@@ -259,6 +255,8 @@ Reflect on your learning journey and contribution to the knowledge building comm
 4. **Future application**: How might you apply knowledge building practices in your future work (research, teaching, design, policy, etc.)?
 
 5. **Boundary crossing**: How did engaging with diverse perspectives (your own background and peers') shape your learning?
+
+6. **AI use**: How did you leverage AI to learn and develop your ideas in this course?
 
 ### Evaluation Criteria
 
